@@ -30,7 +30,7 @@ Follow these steps to run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NghiTo/SETA-react-redux-app.git
    cd redux-toolkit-posts-app
    ```
 
@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
    ```bash
    npm run dev
    ```
-4. Open the app in your browser at http://localhost:3000.
+4. Open the app in your browser at http://localhost:5173.
 
 ## How It Works
 
